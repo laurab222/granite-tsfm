@@ -143,4 +143,4 @@ notebooks/thinklab/checkpoint/**
 **/checkpoint**/**
 
 # Folders
-ttm_finetuned_models/GECCO*
+/notebooks/hfdemo/ttm_finetuned_models/*
